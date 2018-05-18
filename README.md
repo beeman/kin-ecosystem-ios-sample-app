@@ -4,6 +4,7 @@ This app showcases the use of the [Kin Ecosystem iOS SDK](https://github.com/kin
 
 ## Installation
 1. Clone the repo
+2. Run `pod repo update`
 2. Run `pod install`
 
 ## Usage
